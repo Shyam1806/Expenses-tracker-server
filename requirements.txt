@@ -1,4 +1,2 @@
 Flask
 pymongo
-cronjobs
-smtp
